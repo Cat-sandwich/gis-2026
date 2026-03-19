@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 node_modules/
+lab2/geoserver_data/gwc/diskquota_page_store_hsql/diskquota.lck
+lab2/geoserver_data/gwc/geowebcache_2026-03-15T125718.bak
+lab2/geoserver_data/security/masterpw/default/passwd
+lab2/geoserver_data/tomcat_pass.txt
